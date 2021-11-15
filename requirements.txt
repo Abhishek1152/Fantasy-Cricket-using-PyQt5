@@ -2,5 +2,5 @@ PyMySQL==0.9.3
 PyQt5==5.13.0
 PyQt5-sip==4.19.18
 PyQt5-stubs==5.13.0.1
-pip==19.0.3
+pip==21.1
 setuptools==40.8.0
